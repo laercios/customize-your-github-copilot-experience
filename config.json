@@ -58,7 +58,7 @@
           "type": "csv"
         }
       ]
-    }
+    },
     {
       "id": "fastapi-rest",
       "title": "Construindo APIs REST com FastAPI",
